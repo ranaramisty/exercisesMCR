@@ -1,4 +1,4 @@
-let test=()=>{
+let test=(x)=>{
     while(n<5){
         n++;
     }
