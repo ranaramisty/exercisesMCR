@@ -1,0 +1,23 @@
+.tab {
+    margin-left: 10px;
+}
+
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    padding-top: 0;
+}
+  
+.right {
+right: 50;
+}
+
+#submitBtn {
+    position:absolute;
+    bottom:650;
+    right: 150;
+    height: 40;
+    width: 100;
+    border-radius: 2em;
+}
